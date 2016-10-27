@@ -5,7 +5,7 @@
 #include <atlcom.h>
 #include <atlwin.h>
 #include <atlstr.h>
-#include <ShellScalingAPI.h>
+
 #include "resource.h"
 
 class AppDialog : public CDialogImpl<AppDialog>
